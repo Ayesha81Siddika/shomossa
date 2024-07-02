@@ -1,3 +1,8 @@
 div{
     color: red;
+    border:10px solid salmon ;
+    background-color: aqua;
+    margin-top: 10px;
+    margin: 10px ;
+    box-shadow: 10px 20px;
 }
